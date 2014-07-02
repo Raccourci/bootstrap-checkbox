@@ -7,7 +7,7 @@
   ],
   "main": [
     "js/bootstrap-checkbox.js",
-    "css/bootstrap-checkbox.css",
+    "css/bootstrap-checkbox.css"
   ],
   "keywords": [
     "bootstrap",
