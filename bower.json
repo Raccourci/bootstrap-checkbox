@@ -2,7 +2,7 @@
   "name": "bootstrap-checkbox",
   "version": "1.0.1",
   "authors": [
-    "Roberto Montrezorro <info@robertomontresor.it>"
+    "Roberto Montrezorro <info@robertomontresor.it>",
     "Corentin GAUTIER <corentin@raccourci.fr>"
   ],
   "main": "js/bootstrap-checkbox.js",
