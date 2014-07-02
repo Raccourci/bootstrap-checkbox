@@ -5,7 +5,10 @@
     "Roberto Montrezorro <info@robertomontresor.it>",
     "Corentin GAUTIER <corentin@raccourci.fr>"
   ],
-  "main": "js/bootstrap-checkbox.js",
+  "main": [
+    "js/bootstrap-checkbox.js",
+    "css/bootstrap-checkbox.css",
+  ],
   "keywords": [
     "bootstrap",
     "checkbox"
