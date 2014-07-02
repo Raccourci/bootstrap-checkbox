@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-checkbox",
+  "version": "1.0.1",
+  "authors": [
+    "Roberto Montrezorro <info@robertomontresor.it>"
+    "Corentin GAUTIER <corentin@raccourci.fr>"
+  ],
+  "main": "js/bootstrap-checkbox.js",
+  "keywords": [
+    "bootstrap",
+    "checkbox"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/montrezorro/bootstrap-checkbox",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
