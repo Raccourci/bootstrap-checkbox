@@ -69,8 +69,8 @@ label.bootstrap-checkbox.disabled{
 	cursor:not-allowed;
 }
 
-[class^="cb-icon-"],
-[class*=" cb-icon-"] {
+.bootstrap-checkbox [class^="cb-icon-"],
+.bootstrap-checkbox [class*=" cb-icon-"] {
 	display: inline-block;
 	width: 14px;
 	height: 14px;
